@@ -1,17 +1,17 @@
 
 
-[![zhangzihao568](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ZHANGZihao568)
+[![zhangzihao568](https://img.shields.io/badge/zhangzihao568-github-blue?logo=github)](https://github.com/ZHANGZihao568)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+现在是香港科技大学（广州）的研究型硕士在读，所在实验室：智能感知与预测实验室（Precognition Lab） 导师：梁俊卫教授
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: zzhang510[at]connect.hkust-gz.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+香港科技大学（广州），人工智能学域，信息枢纽，研究型硕士（全额奖学金Mphil），在读\
+山东大学，机械设计制造及其自动化（机械电子工程方向），工学学士，2020-2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+具身智能（具身大模型），VLA for Manipulation，强化学习
 
