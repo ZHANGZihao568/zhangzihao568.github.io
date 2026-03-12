@@ -1,12 +1,19 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+Undergraduate Research Innovation Scholarship (Shandong University), 2023.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+Undergraduate Social Service Scholarship (Shandong University), 2022.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+Outstanding Graduate (Shandong University), 2023.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+Outstanding Student Leader (School of Mechanical Engineering, Shandong University), 2021.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+Star of "Power of Role Models" Award (School of Mechanical Engineering, Shandong University), 2021.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+Outstanding Student Leader (Shandong University), 2021
+
+Third Prize in the 18th "Goertek Cup" College Students Mechatronics Products Intelligent Innovation and Creativity Design Competition 
+(Shandong University), 2023.
+
+Second Prize in the 17th Undergraduate Mechatronics Product Innovation Design Competition (Shandong University), 2022.
+
+Second Prize in the 16th Undergraduate Mechatronics Product Innovation Design Competition (Shandong University), 2021.
