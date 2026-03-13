@@ -110,3 +110,39 @@ section .main-body{
 }
 
 
+/* Video Grid */
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.video-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.video-item video {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+    background: #000;
+}
+
+.video-caption {
+    font-size: 1.1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.6rem !important;
+    color: #444;
+    margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .video-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
