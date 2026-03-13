@@ -3,7 +3,7 @@
 [![zhangzihao568](https://img.shields.io/badge/zhangzihao568-github-blue?logo=github)](https://github.com/ZHANGZihao568)
 
 想成为硬件+AI全栈的具身智能工程师！\
-现在是香港科技大学（广州）的研究型硕士在读，所在实验室：智能感知与预测实验室（Precognition Lab） 导师：[[梁俊卫教授]]（https://junweiliang.me/index.html）
+现在是香港科技大学（广州）的研究型硕士在读，所在实验室：智能感知与预测实验室（Precognition Lab） 导师：[Prof.梁俊卫](https://junweiliang.me/index.html)
 
 #### Contact
 
