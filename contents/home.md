@@ -1,8 +1,8 @@
 [![zhangzihao568](https://img.shields.io/badge/zhangzihao568-github-blue?logo=github)](https://github.com/ZHANGZihao568)
 
-- I aspire to become a full-stack engineer in robotics and embodied AI.
-- I am an MPhil student in the Artificial Intelligence Thrust at the Hong Kong University of Science and Technology (Guangzhou), supported by a full Red Bird Scholarship. I expect to graduate in June 2027 and conduct research in the Precognition Lab under the supervision of [Prof. Junwei Liang](https://junweiliang.me/index.html).
-- I am a core contributor to Unitree's Robotree project.
+- Aspiring full-stack engineer in robotics and embodied AI.
+- MPhil student in the Artificial Intelligence Thrust at the Hong Kong University of Science and Technology (Guangzhou), supported by a full Red Bird Scholarship. Expected graduation: June 2027. Research at the Precognition Lab under the supervision of [Prof. Junwei Liang](https://junweiliang.me/index.html).
+- Core contributor to Unitree's Robotree project.
 
 My work focuses on robotic manipulation and autonomous embodied intelligence. My interests include pretraining, post-training, and real-robot deployment of Vision-Language-Action (VLA) and World Action Models (WAM); egocentric and UMI data collection, processing, and use in embodied models; and embodied agent systems and physical recursive self-improvement (RSI).
 
