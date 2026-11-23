@@ -1,23 +1,23 @@
-#### 物理 RSI（递归自进化）框架探索
+#### Exploring Physical Recursive Self-Improvement (RSI)
 
-*2026.08–2026.10*
+*August–October 2026*
 
-借鉴 Code-Only-as-Policy（COAP）思路，在商超移动操作仿真中搭建“代码策略—物理反馈—独立评测”的迭代闭环，探索多阶段取物与交付任务。结合大模型辅助开发、执行日志与多视角回放，改进可检查、可复用的机器人策略。
+Inspired by Code-Only-as-Policy (COAP), I built an iterative loop connecting code policies, physical feedback, and independent evaluation in a simulated supermarket environment. The work explores multi-stage mobile manipulation for item retrieval and delivery, using LLM-assisted development, execution logs, and multi-view replay to improve inspectable, reusable robot policies.
 
-#### 商超场景 Agent-VLA 自主取货系统的搭建
+#### An Agent-VLA System for Autonomous Supermarket Picking
 
-*2026.07–2026.10*
+*July–October 2026*
 
-面向宇树 G1-D，搭建融合小票理解、任务规划、导航与局部 VLA 抓取的分层Agent系统。串联商品定位、抓取、放篮验证与失败重规划，探索多商品取货任务的闭环执行。
+I built a hierarchical agent system for the Unitree G1-D, integrating receipt understanding, task planning, navigation, and local VLA grasping. The system connects item localization, grasping, basket-placement verification, and replanning after failures to explore closed-loop retrieval of multiple products.
 
-#### 基于Latent Action Space的跨场景VLA 模型预训练
+#### Cross-Scene VLA Pretraining with Latent Action Representations
 
-基于 LAPA 探索从视频中学习可用于机器人控制的潜在动作表示。引入对比学习，引导三类互补编码分别侧重于相对稳定的场景与外观信息、与任务相关的物体状态信息，以及操作过程中的动作与动态变化信息。通过这种表示分工，探索减少场景外观等因素对动作学习的干扰，并结合下游策略学习与闭环任务评测，研究视频经验向机器人操作能力迁移的可行性。
+Building on LAPA, I explore learning latent action representations from video for robot control. Contrastive learning encourages three complementary types of representations to focus on relatively stable scene and appearance information, task-relevant object states, and actions and dynamic changes during manipulation. The aim is to reduce interference from scene appearance in action learning. Downstream policy learning and closed-loop task evaluation are used to study the transfer of video experience to robotic manipulation.
 
-训练数据集采用机器人数据和人类数据按一定比例混合，探索了不同数据配比对预训练效果的影响。
+The training data combines robot and human demonstrations, with experiments exploring how different mixing ratios affect pretraining.
 
-#### 移动 UMI 与 Ego 数据采集、VLA 后训练
+#### Mobile UMI and Egocentric Data Collection for VLA Post-Training
 
-*2026.06–2026.10*
+*June–October 2026*
 
-搭建移动 UMI 数采系统，同步采集双腕视觉、双臂、夹爪与底盘动作，完成数据处理、动作对齐和 VLA 后训练接口。探索低成本 Ego 数据采集与人类示范向机器人迁移，改进双臂状态表示与动作归一化。
+I built a mobile UMI data collection system that synchronizes wrist-camera observations with dual-arm, gripper, and mobile-base actions, together with data processing, action alignment, and VLA post-training interfaces. The work explores low-cost egocentric data collection and the transfer of human demonstrations to robots, including improvements to dual-arm state representations and action normalization.
